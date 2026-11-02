@@ -6,7 +6,7 @@ Chemical engineer in supply chain planning, based in Malaysia. I'm learning to s
 
 - 📊 **Data science:** statistics, machine learning, and forecasting
 - 🎨 **Data visualization:** turning numbers into clear stories
-- 🧩 **Algorithmic problem solving:** practicing daily on [algorithm-practice](https://github.com/Khairul/algorithm-practice)
+- 🧩 **Algorithmic problem solving:** practicing daily on [algorithm-practice](https://github.com/khairulMY/algorithm-practice)
 - 🧠 **The bigger question:** how can data help us understand human thinking and behavior?
 
 ## Featured projects

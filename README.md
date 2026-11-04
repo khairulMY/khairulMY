@@ -27,8 +27,11 @@ Chemical engineer in supply chain planning, based in Malaysia. I'm learning to s
 
 ## Learning in public
 
-I'm following a five-year plan to go deep on data, visualization, and algorithms. Progress, notes, and mistakes all live in these repos.
+I'm following a five-year plan to go deep on data, visualization, and algorithms. Progress, notes, and mistakes all live in these repos:
+- 📓 **[data-science-notes](https://github.com/khairulMY/data-science-notes)** — Comprehensive notes, math foundations, and code implementations.
+- 🧩 **[algorithm-practice](https://github.com/khairulMY/algorithm-practice)** — Daily algorithm solutions and complexity analysis.
 
 I write in English and Bahasa Malaysia. Feel free to reach out in either.
 
 <!-- Add contact links here (LinkedIn, blog, or email) when you're ready -->
+
